@@ -4,8 +4,8 @@ import (
 	"errors"
 	"math/rand/v2"
 
-	"github.com/coding/src/domain"
-	"github.com/coding/src/utils"
+	"github.com/vehicle-routing/src/domain"
+	"github.com/vehicle-routing/src/utils"
 )
 
 type Rand func(n int) int

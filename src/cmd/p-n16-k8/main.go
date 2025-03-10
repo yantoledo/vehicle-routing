@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/coding/src/controller"
-	read_csv "github.com/coding/src/infra/csv"
-	"github.com/coding/src/services"
+	"github.com/vehicle-routing/src/controller"
+	read_csv "github.com/vehicle-routing/src/infra/csv"
+	"github.com/vehicle-routing/src/services"
 )
 
 /*

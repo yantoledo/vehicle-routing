@@ -1,6 +1,6 @@
 package utils
 
-import "github.com/coding/src/domain"
+import "github.com/vehicle-routing/src/domain"
 
 func RemoveNode(s []*domain.Node, i int) []*domain.Node {
 	s[i] = s[len(s)-1]

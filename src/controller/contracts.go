@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"github.com/coding/src/domain"
-	read_csv "github.com/coding/src/infra/csv"
+	"github.com/vehicle-routing/src/domain"
+	read_csv "github.com/vehicle-routing/src/infra/csv"
 )
 
 type ServiceInterface interface {

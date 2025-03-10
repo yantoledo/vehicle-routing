@@ -4,11 +4,11 @@ import (
 	"math"
 	"testing"
 
-	"github.com/coding/src/controller"
-	"github.com/coding/src/domain"
-	read_csv "github.com/coding/src/infra/csv"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
+	"github.com/vehicle-routing/src/controller"
+	"github.com/vehicle-routing/src/domain"
+	read_csv "github.com/vehicle-routing/src/infra/csv"
 )
 
 func TestController(t *testing.T) {
